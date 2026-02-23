@@ -1,5 +1,12 @@
 # auto-bridge-engine-96
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/auto-bridge-engine-96/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/auto-bridge-engine-96/actions)
+![License](https://img.shields.io/github/license/yksanjo/auto-bridge-engine-96)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/auto-bridge-engine-96)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/auto-bridge-engine-96)
+
 ## Detailed Description
 
 auto-bridge-engine-96 is maintained as an industry-grade software project with production-ready engineering practices.  
